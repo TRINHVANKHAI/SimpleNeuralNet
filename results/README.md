@@ -1,0 +1,2 @@
+#Result plot
+Results folder
