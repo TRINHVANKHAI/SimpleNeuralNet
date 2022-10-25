@@ -1,2 +1,1 @@
-#Result plot
 Results folder
